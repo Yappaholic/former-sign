@@ -89,3 +89,8 @@ button {
   font-size: 1rem;
   font-weight: 800;
 }
+p {
+  font-weight: 800;
+  color: red;
+  font-size: 10px;
+}
